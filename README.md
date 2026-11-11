@@ -6,26 +6,17 @@
 <!-- STATS:START -->
 ### 📊 풀이 현황
 
-**총 3문제 해결** · 사용 언어 1개 · 풀이 파일 3개
+![해결한 문제 3개](https://img.shields.io/badge/%ED%95%B4%EA%B2%B0%ED%95%9C_%EB%AC%B8%EC%A0%9C-3%EA%B0%9C-brightgreen?style=for-the-badge) ![사용 언어 1개](https://img.shields.io/badge/%EC%82%AC%EC%9A%A9_%EC%96%B8%EC%96%B4-1%EA%B0%9C-blue?style=for-the-badge)
 
 > 같은 문제를 여러 언어로 풀어도 '해결한 문제 수'에는 한 번만 셉니다.
 
 #### 언어별 사용률
 
-| 언어 | 풀이 수 | 비율 | 그래프 |
-| --- | ---: | ---: | --- |
-| Python | 3 | 100.0% | `████████████████████` |
+![Python 3개 · 100.0%](https://img.shields.io/badge/Python-3%EA%B0%9C_%C2%B7_100.0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 레벨별 해결 수
 
-| 레벨 | Python | 합계 | 분포 |
-| --- | ---: | ---: | --- |
-| Lv.0 | 2 | 2 | `█████████████░░░░░░░` |
-| Lv.1 | 1 | 1 | `███████░░░░░░░░░░░░░` |
-| Lv.2 | 0 | 0 | `░░░░░░░░░░░░░░░░░░░░` |
-| Lv.3 | 0 | 0 | `░░░░░░░░░░░░░░░░░░░░` |
-| Lv.4 | 0 | 0 | `░░░░░░░░░░░░░░░░░░░░` |
-| Lv.5 | 0 | 0 | `░░░░░░░░░░░░░░░░░░░░` |
+![Lv.0 2](https://img.shields.io/badge/Lv.0-2-8E9AAF?style=flat-square) ![Lv.1 1](https://img.shields.io/badge/Lv.1-1-4CAF50?style=flat-square) ![Lv.2 0](https://img.shields.io/badge/Lv.2-0-D0D5DB?style=flat-square) ![Lv.3 0](https://img.shields.io/badge/Lv.3-0-D0D5DB?style=flat-square) ![Lv.4 0](https://img.shields.io/badge/Lv.4-0-D0D5DB?style=flat-square) ![Lv.5 0](https://img.shields.io/badge/Lv.5-0-D0D5DB?style=flat-square)
 
 <details><summary>풀이 목록 (3)</summary>
 
