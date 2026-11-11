@@ -22,11 +22,11 @@
 
 | 레벨 | 번호 | 제목 | 풀이 |
 | --- | --- | --- | --- |
-| Lv.0 | [120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | - | [JavaScript](JavaScript/Lv.0/120804.js) |
-| Lv.0 | [340205](https://school.programmers.co.kr/learn/courses/30/lessons/340205) | - | [Python](python/Lv.0/340205.py) |
+| Lv.0 | [120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | 두 수의 곱 구하기 | [JavaScript](JavaScript/Lv.0/120804.js) |
+| Lv.0 | [340205](https://school.programmers.co.kr/learn/courses/30/lessons/340205) | [PCCE 기출문제] 3번 / 수 나누기 | [Python](python/Lv.0/340205.py) |
 | Lv.0 | [340206](https://school.programmers.co.kr/learn/courses/30/lessons/340206) | [PCCE 기출문제] 2번 / 각도 합치기 | [Python](python/Lv.0/340206.py) |
 | Lv.0 | [340207](https://school.programmers.co.kr/learn/courses/30/lessons/340207) | [PCCE 기출문제] 1번 / 문자 출력 | [Python](python/Lv.0/340207.py) |
-| Lv.1 | [176963](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | - | [Python](python/Lv.1/176963.py) |
+| Lv.1 | [176963](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | 추억 점수 | [Python](python/Lv.1/176963.py) |
 
 </details>
 <!-- STATS:END -->
