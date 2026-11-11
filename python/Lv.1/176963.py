@@ -1,3 +1,5 @@
+# 추억 점수
+
 import sys
 
 name = list(sys.stdin.readline().split())
